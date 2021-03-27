@@ -253,9 +253,9 @@
     }
 
     .site-navigation {
-      left: 0;
-      -webkit-transition: left .3s ease-in-out;
-      transition: left .3s ease-in-out;
+      right: 0;
+      -webkit-transition: right .3s ease-in-out;
+      transition: right .3s ease-in-out;
       visibility: visible;
     }
 
