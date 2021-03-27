@@ -325,15 +325,15 @@
       color: $gray-500;
       height: 2.8125em;
       position: absolute;
-      left: 0;
+      right: 0;
       top: 0;
     }
 
     &.active {
       .submenu-toggle {
         .icon-angle-right {
-          -webkit-transform: rotate(35deg);
-          transform: rotate(35deg);
+          -webkit-transform: rotate(135deg);
+          transform: rotate(135deg);
         }
       }
   
