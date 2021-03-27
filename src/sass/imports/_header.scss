@@ -242,7 +242,7 @@
   .menu--opened {
     .site {
       height: 100%;
-      right: 0;
+      left: 0;
       overflow: hidden;
       position: fixed;
       top: 0;
@@ -253,9 +253,9 @@
     }
 
     .site-navigation {
-      right: 0;
-      -webkit-transition: right .3s ease-in-out;
-      transition: right .3s ease-in-out;
+      left: 0;
+      -webkit-transition: left .3s ease-in-out;
+      transition: left .3s ease-in-out;
       visibility: visible;
     }
 
