@@ -223,10 +223,10 @@
     max-width: 360px;
     -webkit-overflow-scrolling: touch;
     position: absolute;
-    right: -100%;
+    rigt: -100%;
     top: 0;
-    -webkit-transition: right .3s ease-in-out, visibility 0s .3s ease-in-out;
-    transition: right .3s ease-in-out, visibility 0s .3s ease-in-out;
+    -webkit-transition: left .3s ease-in-out, visibility 0s .3s ease-in-out;
+    transition: left .3s ease-in-out, visibility 0s .3s ease-in-out;
     visibility: hidden;
     width: 100%;
     z-index: 999;
