@@ -16,7 +16,7 @@
                 "label": "الشرق مبادرة",
                 "url": "/docs",
                 "style": "link",
-                "has_subnav": true
+                "has_subnav": false
             },
             {
                 "label": "Blog",
